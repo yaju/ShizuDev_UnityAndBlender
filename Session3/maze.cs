@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class maze : MonoBehaviour {
+public class Maze : MonoBehaviour {
 
 	public GameObject pacdot;
 
